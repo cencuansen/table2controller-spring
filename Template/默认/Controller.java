@@ -1,0 +1,3 @@
+contrller
+
+${Util.CamelCase("NiHaoSuZhou")}
